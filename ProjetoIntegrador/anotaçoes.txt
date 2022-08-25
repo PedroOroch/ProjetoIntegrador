@@ -1,0 +1,6 @@
+anotações laravel
+1.criar a model  ""php artisan make:model 'nome da model' -cm"
+2.alterar a migraton
+3.rodar a migration
+4.criar a rota
+5.criar a função na controller 
